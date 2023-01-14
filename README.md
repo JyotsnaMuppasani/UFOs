@@ -51,4 +51,4 @@ Upon entering the triangle shape the table gets updated as below.
 
 ## Summary:
 
-D3 is a JavaScript library that produces sophisticated and highly dynamic graphics in an HTML webpage enabling it to "listen" for events, such as a user clicking a button. Having a separate D3.js, app.js abd data.js keeps it clean. CSS allows customizing making it visually appealing and being able to configure to user needs.
+D3 is a JavaScript library that produces sophisticated and highly dynamic graphics in an HTML webpage enabling it to "listen" for events, such as a user clicking a button. Having a separate D3.js, app.js and data.js keeps it clean. CSS allows customizing making it visually appealing and being able to configure to user needs.
